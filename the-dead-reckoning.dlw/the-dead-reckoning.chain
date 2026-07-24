@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1518
+slug  : the-dead-reckoning
+seal  : 26f01b67cb6398c28d0fc2cd82d6241dfb72cafe4aff91cc68763c95f04a9bb2
+prev  : d123e4332a76c0b8f5f9c568caa48fdf4b167f36b0f2d47009cb6d82d6bcd50c
+link  : 6b7f0638ea0beb059e90f748d16f989b7db180c2c6953b0754f4dd9bc061a062
+head  : 02dd20d7c872f64c6290de0b58c05d88fcba8f060acc124adbffb157cb113df9
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
